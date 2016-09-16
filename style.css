@@ -25,7 +25,13 @@ header p:nth-child(2) {
 }
 
 main { 
-   background-color: white; 
-   color: black; 
-   padding: 2rem 0 4rem; 
- } 
+	background-color: white; 
+   	color: black; 
+   	padding: 2rem 0 4rem; 
+} 
+
+h1 { 
+	font-family: "Covered By Your Grace", cursive; 
+	font-size: 4rem; 
+	text-align: center; 
+} 
