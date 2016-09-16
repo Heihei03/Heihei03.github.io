@@ -23,3 +23,9 @@ header p:nth-child(2) {
 	text-transform: uppercase;
 	letter-spacing: .2rem;
 }
+
+main { 
+   background-color: white; 
+   color: black; 
+   padding: 2rem 0 4rem; 
+ } 
