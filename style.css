@@ -36,6 +36,15 @@ h1 {
 	text-align: center; 
 } 
 
+main img {
+  display: block;
+  width: 12rem;
+  max-width: 50%;
+  margin: 0 auto 1rem;
+  height: auto;
+  border-radius: 50%;
+}
+
 main p { 
 	width: 30rem; 
 	max-width: 80%; 
